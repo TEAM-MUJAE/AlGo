@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/TEAM-MUJAE/AlGo/assets/132265893/396d38bf-8478-4e8a-862c-cbdf562dcbd4" style="height: 50%; width: 50%;">
+  <img src="https://github.com/TEAM-MUJAE/AlGo/assets/132265893/396d38bf-8478-4e8a-862c-cbdf562dcbd4" style="height: 30%; width: 30%;">
 </p>
 
 <div align="center">
