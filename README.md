@@ -52,11 +52,14 @@
 </br>
 
 ## 🔧 기술 스택
+
+> Backend <br/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <br/>
 	
 > Frontend <br/>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/><br/>
+
 
  > AI Serving <br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -64,12 +67,18 @@
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> 
         <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/><br/>
 	
-> Server <br/>
-        <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white"/> <br/>
+> Database <br/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/><br/>
+
+ > Server <br/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/> <br/>
+       <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white"/> <br/>
         
 	
 > Environment <br/>
+        <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=IntellijIDEA&logoColor=white"/> 
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
 
  
 > Communication <br/>
@@ -80,16 +89,24 @@
 
 
 ## 🔧 AI 모델
-https://github.com/ageitgey/face_recognition
+[DeepFace](https://github.com/serengil/deepface)
+
+[dlib Face landmark](http://dlib.net/face_landmark_detection.py.html)
+
+[openCV SIFT](https://docs.opencv.org/4.x/da/df5/tutorial_py_sift_intro.html)
+
 
 ## 🎬 시연 영상
-![시연영상](https://github.com/TEAM-MUJAE/x-remove/assets/132265893/6f4b42c4-e6c2-4df0-ae85-1ae5c5555739)
+![시연영상](https://github.com/TEAM-MUJAE/AlGo/assets/132265893/f9fe31e1-ef6e-40be-ac51-266d882c9a0c)
 
-- [링크](https://github.com/TEAM-MUJAE/x-remove/assets/132265893/014e5036-650a-428e-a251-ed4b3c175aa0)
+- [링크](https://github.com/TEAM-MUJAE/AlGo/assets/132265893/f1f3295a-af93-4c5a-834f-9e07c4ed5031
+)
 
 
 </br>
 
 ## 📖 Repository
 
-📑[Repository](https://github.com/TEAM-MUJAE/x-remove.git) <br/>
+📑[Frontend Repository](https://github.com/TEAM-MUJAE/Face_AI_Model_Service_FE.git) <br/>
+📑[Backend Repository](https://github.com/TEAM-MUJAE/Face_AI_Model_Service_BE.git) <br/>
+📑[AI Serving Repository](https://github.com/TEAM-MUJAE/Face_AI_Model_Service_AI_Serving.git) <br/>
